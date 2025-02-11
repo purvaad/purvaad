@@ -10,15 +10,10 @@
 ⚡ Open Source & Research – Exploring new technologies and contributing to innovative projects.
 🛠 Tech Stack
 
-Languages: Python, JavaScript, C/C++, SQL
+Languages: Python, JavaScript, C/C++, SQL, JavaScript, HTML, CSS
 Frameworks & Tools: React, Node.js, Flask, TensorFlow, MySQL, Git
 Cloud & DevOps: AWS, Microsoft Azure, Docker
 
-📌 Featured Projects
-
-Vehicle Accident Prediction – Computer vision-based system for accident detection using CNN.
-Smart Dustbin Management – IoT-enabled waste management system with automated alerts.
-FrontEnd Tasks - Developed multiple webpages to practice different frontend tools
 
 📫 Let's Connect!
 
